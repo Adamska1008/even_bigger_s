@@ -33,7 +33,7 @@ If you want to separate strings with spaces, you can do:
 assert_eq!(S!("hello", "world"), "hello world".to_string());
 ```
 
-This one is especially helpful with a really long string literal:
+This one is especially helpful with an extensive string literal:
 
 ```rust
 assert_eq!(
