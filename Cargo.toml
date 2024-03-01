@@ -2,7 +2,10 @@
 name = "even_bigger_s"
 version = "1.0.0"
 authors = ["Zijian Zang <2639980868@qq.com>"]
+license = "MIT"
 description = "Better String Literal"
+homepage = "https://github.com/Adamska1008/even_bigger_s"
+repository = "https://github.com/Adamska1008/even_bigger_s"
 readme = "README.md"
 edition = "2021"
 
